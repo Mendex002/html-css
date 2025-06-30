@@ -1,0 +1,19 @@
+@charset "UTR-8";
+
+body {
+  background-color: rgb(107, 220, 182);
+  margin: 0px;
+}
+header {
+  background-color: rgb(220, 119, 119);
+  box-shadow: 20px 20px 60px #02263493;
+  margin: 0px;
+}
+header > #cabeçalho {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+header > #paragrafo {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
